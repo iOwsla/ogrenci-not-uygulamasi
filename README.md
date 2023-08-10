@@ -1,0 +1,2 @@
+# ogrenci-not-uygulamasi
+ 
